@@ -6,7 +6,7 @@ public class Body {
     }
     public class Heart{
         public void me(){
-            System.out.println("这是一个内部类");
+            System.out.println("  这是一个内部类");
         }
     }
 }
